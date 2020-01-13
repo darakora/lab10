@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Plane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PointBName>pip2</PointBName>
+  <FlightNumber>122</FlightNumber>
+  <DepartureTime>2019-11-29T00:00:00</DepartureTime>
+</Plane>

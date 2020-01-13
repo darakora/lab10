@@ -1,0 +1,6 @@
+C:\Users\Dasha\source\repos\lab10KP\lab10KP\bin\Debug\lab10KP.exe.config
+C:\Users\Dasha\source\repos\lab10KP\lab10KP\bin\Debug\lab10KP.exe
+C:\Users\Dasha\source\repos\lab10KP\lab10KP\bin\Debug\lab10KP.pdb
+C:\Users\Dasha\source\repos\lab10KP\lab10KP\obj\Debug\lab10KP.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\lab10KP\lab10KP\obj\Debug\lab10KP.exe
+C:\Users\Dasha\source\repos\lab10KP\lab10KP\obj\Debug\lab10KP.pdb
